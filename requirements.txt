@@ -1,0 +1,26 @@
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Deep Learning
+torch>=1.7.0
+transformers>=4.0.0
+
+# NLP
+nltk
+
+# Progress tracking
+tqdm
+
+# Web application
+streamlit>=1.0.0
+
+# Machine Learning
+scikit-learn
+
+# Utilities
+collections-extended
